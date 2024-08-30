@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    font-size: 28px;
+    color: rgb(17, 17, 17);
+    background: rgb(255, 253, 253);
+    flex-direction: column;
+}
+p{
+    font-size: 50px;
+}
